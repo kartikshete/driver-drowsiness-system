@@ -27,6 +27,21 @@ npm install
 npm run dev
 ```
 
+
+## 🌐 Deployment
+
+### Vercel / Netlify (Recommended)
+1. Push this repository to GitHub.
+2. Connect your GitHub account to [Vercel](https://vercel.com) or [Netlify](https://www.netlify.com).
+3. Select this project and use the following settings:
+   - **Build Command:** `npm run build`
+   - **Output Directory:** `dist`
+
+### GitHub Pages
+1. Install the gh-pages package: `npm install gh-pages --save-dev`
+2. Add deployment scripts to your `package.json`.
+3. Run `npm run deploy`.
+
 ## 👨‍💻 Developer
 **Kartik Shete**
 *Building premium digital experiences.*
