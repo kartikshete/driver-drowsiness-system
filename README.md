@@ -94,3 +94,4 @@ Follow these steps to set up the system locally:
 *Dedicated to making roads safer through the power of AI.*
 
 <!-- Safety log 12 -->
+<!-- Safety log 16 -->
