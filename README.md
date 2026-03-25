@@ -95,3 +95,4 @@ Follow these steps to set up the system locally:
 
 <!-- Safety log 12 -->
 <!-- Safety log 16 -->
+<!-- Safety log 24 -->
